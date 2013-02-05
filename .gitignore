@@ -2,3 +2,6 @@
 /vendor/bundle
 /*.gem
 *.orig
+/tmp
+/output
+/crash.log

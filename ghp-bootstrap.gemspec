@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
   s.date        = %q{2013-01-26}
   s.executables   = [ ]
   s.require_paths = ["lib"]
-  s.files = %w(LICENSE VERSION README.md) + Dir.glob("lib/**/*") + Dir.glob("bootstrap/**/*") + Dir.glob("content/**/*")
+  s.files = %w(LICENSE VERSION README.md) + Dir.glob("lib/**/*") + Dir.glob("content/**/*") + Dir.glob("layouts/**/*")
 end
